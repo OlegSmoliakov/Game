@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "s_PunchMan",
+    "path": "sprites/s_PunchMan/s_PunchMan.yy",
   },
   "spriteMaskId": null,
   "visible": true,
