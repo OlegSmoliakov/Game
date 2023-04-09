@@ -37,7 +37,7 @@
     {"id":{"name":"Chubrik","path":"objects/Chubrik/Chubrik.yy",},},
     {"id":{"name":"Broske","path":"objects/Broske/Broske.yy",},},
     {"id":{"name":"Test_object1","path":"objects/Test_object1/Test_object1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"s_PunchMan","path":"sprites/s_PunchMan/s_PunchMan.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"oPrivetDrug","path":"objects/oPrivetDrug/oPrivetDrug.yy",},},
     {"id":{"name":"sPrivetDrug","path":"sprites/sPrivetDrug/sPrivetDrug.yy",},},
