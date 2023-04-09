@@ -33,8 +33,10 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
+    {"id":{"name":"s_pivo","path":"sprites/s_pivo/s_pivo.yy",},},
     {"id":{"name":"Chubrik","path":"objects/Chubrik/Chubrik.yy",},},
     {"id":{"name":"Broske","path":"objects/Broske/Broske.yy",},},
+    {"id":{"name":"Test_object1","path":"objects/Test_object1/Test_object1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Abobsya","path":"objects/Abobsya/Abobsya.yy",},},
