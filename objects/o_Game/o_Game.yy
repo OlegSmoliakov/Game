@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Broske",
+  "name": "o_Game",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_PunchMan",
-    "path": "sprites/s_PunchMan/s_PunchMan.yy",
+    "name": "s_Game",
+    "path": "sprites/s_Game/s_Game.yy",
   },
   "spriteMaskId": null,
   "visible": true,

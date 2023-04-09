@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Broske",
+  "name": "CoaterKing",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
@@ -24,13 +24,18 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":200.0,"y":0.0,},
+    {"x":200.0,"y":200.0,},
+    {"x":0.0,"y":200.0,},
+  ],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_PunchMan",
-    "path": "sprites/s_PunchMan/s_PunchMan.yy",
+    "name": "s_CoaterKing",
+    "path": "sprites/s_CoaterKing/s_CoaterKing.yy",
   },
   "spriteMaskId": null,
   "visible": true,
