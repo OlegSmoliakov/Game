@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"AnimationCurve1","order":1,"path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},
+  ],
 }
