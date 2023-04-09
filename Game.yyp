@@ -37,6 +37,8 @@
     {"id":{"name":"Broske","path":"objects/Broske/Broske.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"oPrivetDrug","path":"objects/oPrivetDrug/oPrivetDrug.yy",},},
+    {"id":{"name":"sPrivetDrug","path":"sprites/sPrivetDrug/sPrivetDrug.yy",},},
     {"id":{"name":"Abobsya","path":"objects/Abobsya/Abobsya.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

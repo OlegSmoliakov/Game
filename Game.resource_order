@@ -18,6 +18,8 @@
   "ResourceOrderSettings": [
     {"name":"Chubrik","order":1,"path":"objects/Chubrik/Chubrik.yy",},
     {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"oPrivetDrug","order":3,"path":"objects/oPrivetDrug/oPrivetDrug.yy",},
+    {"name":"sPrivetDrug","order":3,"path":"sprites/sPrivetDrug/sPrivetDrug.yy",},
     {"name":"Abobsya","order":2,"path":"objects/Abobsya/Abobsya.yy",},
   ],
 }
