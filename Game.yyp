@@ -35,6 +35,7 @@
   "resources": [
     {"id":{"name":"s_pivo","path":"sprites/s_pivo/s_pivo.yy",},},
     {"id":{"name":"Chubrik","path":"objects/Chubrik/Chubrik.yy",},},
+    {"id":{"name":"s_TestBackground","path":"sprites/s_TestBackground/s_TestBackground.yy",},},
     {"id":{"name":"s_Game","path":"sprites/s_Game/s_Game.yy",},},
     {"id":{"name":"Broske","path":"objects/Broske/Broske.yy",},},
     {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},},
