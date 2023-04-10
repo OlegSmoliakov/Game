@@ -1,14 +1,4 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"Chubrik","order":4,"path":"objects/Chubrik/Chubrik.yy",},
-    {"name":"s_Game","order":2,"path":"sprites/s_Game/s_Game.yy",},
-    {"name":"Broske","order":3,"path":"objects/Broske/Broske.yy",},
-    {"name":"AnimationCurve1","order":5,"path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},
-    {"name":"oPrivetDrug","order":2,"path":"objects/oPrivetDrug/oPrivetDrug.yy",},
-    {"name":"o_Game","order":7,"path":"objects/o_Game/o_Game.yy",},
-    {"name":"CoaterKing","order":6,"path":"objects/CoaterKing/CoaterKing.yy",},
-    {"name":"Abobsya","order":1,"path":"objects/Abobsya/Abobsya.yy",},
-    {"name":"s_CoaterKing","order":1,"path":"sprites/s_CoaterKing/s_CoaterKing.yy",},
-  ],
+  "ResourceOrderSettings": [],
 }
