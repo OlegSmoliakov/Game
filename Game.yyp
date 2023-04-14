@@ -38,7 +38,6 @@
     {"id":{"name":"s_TestBackground","path":"sprites/s_TestBackground/s_TestBackground.yy",},},
     {"id":{"name":"s_Game","path":"sprites/s_Game/s_Game.yy",},},
     {"id":{"name":"Broske","path":"objects/Broske/Broske.yy",},},
-    {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},},
     {"id":{"name":"Test_object1","path":"objects/Test_object1/Test_object1.yy",},},
     {"id":{"name":"s_PunchMan","path":"sprites/s_PunchMan/s_PunchMan.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},

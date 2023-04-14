@@ -4,7 +4,6 @@
     {"name":"Chubrik","order":6,"path":"objects/Chubrik/Chubrik.yy",},
     {"name":"s_TestBackground","order":1,"path":"sprites/s_TestBackground/s_TestBackground.yy",},
     {"name":"Broske","order":5,"path":"objects/Broske/Broske.yy",},
-    {"name":"AnimationCurve1","order":7,"path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},
     {"name":"oPrivetDrug","order":2,"path":"objects/oPrivetDrug/oPrivetDrug.yy",},
     {"name":"o_Game","order":3,"path":"objects/o_Game/o_Game.yy",},
     {"name":"CoaterKing","order":4,"path":"objects/CoaterKing/CoaterKing.yy",},
