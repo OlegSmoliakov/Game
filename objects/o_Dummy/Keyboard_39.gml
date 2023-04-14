@@ -1,1 +1,1 @@
-skeleton_animation_is_looping(DummyRun);
+sprite_index=DummyRun;

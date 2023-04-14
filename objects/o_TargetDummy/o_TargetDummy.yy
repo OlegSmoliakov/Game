@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Test_object1",
-  "eventList": [],
+  "name": "o_TargetDummy",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "DummyPlayRoom",
+    "path": "folders/Objects/WeaponOverhaul/DummyPlayRoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,12 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_pivo",
-    "path": "sprites/s_pivo/s_pivo.yy",
+    "name": "Dummy",
+    "path": "sprites/Dummy/Dummy.yy",
   },
-  "spriteMaskId": {
-    "name": "s_pivo",
-    "path": "sprites/s_pivo/s_pivo.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
