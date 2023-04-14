@@ -1,0 +1,1 @@
+skeleton_animation_is_looping(DummyRun);
