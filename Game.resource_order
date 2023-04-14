@@ -1,4 +1,18 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"rObjects","order":7,"path":"folders/Objects/rObjects.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Chubrik","order":6,"path":"objects/Chubrik/Chubrik.yy",},
+    {"name":"sBlockUser","order":1,"path":"sprites/sBlockUser/sBlockUser.yy",},
+    {"name":"Broske","order":4,"path":"objects/Broske/Broske.yy",},
+    {"name":"Test_object1","order":3,"path":"objects/Test_object1/Test_object1.yy",},
+    {"name":"DummyRun","order":3,"path":"sprites/DummyRun/DummyRun.yy",},
+    {"name":"oPrivetDrug","order":1,"path":"objects/oPrivetDrug/oPrivetDrug.yy",},
+    {"name":"o_Game","order":5,"path":"objects/o_Game/o_Game.yy",},
+    {"name":"DummyStay","order":2,"path":"sprites/DummyStay/DummyStay.yy",},
+    {"name":"oTestMainPlayer","order":8,"path":"objects/oTestMainPlayer/oTestMainPlayer.yy",},
+    {"name":"TestMovementRoom","order":1,"path":"rooms/TestMovementRoom/TestMovementRoom.yy",},
+    {"name":"Abobsya","order":2,"path":"objects/Abobsya/Abobsya.yy",},
+  ],
 }
