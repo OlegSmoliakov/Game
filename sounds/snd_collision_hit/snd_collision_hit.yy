@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_miss",
+  "name": "snd_collision_hit",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_miss.wav",
+  "soundFile": "snd_collision_hit.wav",
   "type": 0,
   "volume": 1.0,
 }

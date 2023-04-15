@@ -2,13 +2,14 @@
   "FolderOrderSettings": [
     {"name":"DummyPlayRoom","order":7,"path":"folders/Objects/DummyPlayRoom.yy",},
     {"name":"WeaponOverhaul","order":5,"path":"folders/Objects/WeaponOverhaul.yy",},
+    {"name":"mp3","order":5,"path":"folders/Sounds/mp3.yy",},
+    {"name":"wav","order":4,"path":"folders/Sounds/wav.yy",},
     {"name":"Dummy","order":4,"path":"folders/Sprites/Dummy.yy",},
+    {"name":"Numbers","order":7,"path":"folders/Sprites/Numbers.yy",},
     {"name":"TIle_Set1","order":2,"path":"folders/Sprites/TIle_Set1.yy",},
     {"name":"Trees","order":6,"path":"folders/Sprites/TIle_Set1/Trees.yy",},
     {"name":"WeaponOverhaul","order":5,"path":"folders/Sprites/WeaponOverhaul.yy",},
-    {"name":"Numbers","order":7,"path":"folders/Sprites/Numbers.yy",},
-    {"name":"wav","order":4,"path":"folders/Sounds/wav.yy",},
-    {"name":"mp3","order":5,"path":"folders/Sounds/mp3.yy",},
+    {"name":"Effects","order":8,"path":"folders/Sprites/Effects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"s_3","order":3,"path":"sprites/s_3/s_3.yy",},
@@ -22,6 +23,7 @@
     {"name":"Interior_01","order":5,"path":"sprites/Interior_01/Interior_01.yy",},
     {"name":"Chubrik","order":4,"path":"objects/Chubrik/Chubrik.yy",},
     {"name":"Hive","order":4,"path":"sprites/Hive/Hive.yy",},
+    {"name":"o_shoot_flash","order":2,"path":"objects/o_shoot_flash/o_shoot_flash.yy",},
     {"name":"s_4","order":4,"path":"sprites/s_4/s_4.yy",},
     {"name":"Golden_Tree","order":2,"path":"sprites/Golden_Tree/Golden_Tree.yy",},
     {"name":"o_CameraMan","order":2,"path":"objects/o_CameraMan/o_CameraMan.yy",},
@@ -53,5 +55,6 @@
     {"name":"CameraManRun","order":5,"path":"sprites/CameraManRun/CameraManRun.yy",},
     {"name":"o_TargetDummy","order":3,"path":"objects/o_TargetDummy/o_TargetDummy.yy",},
     {"name":"Yellow_Tree","order":5,"path":"sprites/Yellow_Tree/Yellow_Tree.yy",},
+    {"name":"snd_got_bullet","order":3,"path":"sounds/snd_got_bullet/snd_got_bullet.yy",},
   ],
 }

@@ -1,2 +1,2 @@
-alarm_set(0,1);
+if room=MainMenu alarm_set(0,1);
 

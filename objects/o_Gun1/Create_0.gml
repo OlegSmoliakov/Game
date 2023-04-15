@@ -1,4 +1,9 @@
 canshoot=true;
 reload=false;
-ammo=2;
-max_ammo=2;
+ammo=5;
+max_ammo=5;
+reverse=false;
+x=o_CameraMan.x;
+y=o_CameraMan.y;
+global.GunReverse=false;
+global.Gunx=0;
