@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "DummyPlayRoom",
-    "path": "folders/Objects/WeaponOverhaul/DummyPlayRoom.yy",
+    "path": "folders/Objects/DummyPlayRoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

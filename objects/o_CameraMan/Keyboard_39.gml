@@ -1,2 +1,5 @@
-sprite_index=CameraManRun;
-x+=1;
+if global.canmove=true
+{
+	sprite_index=CameraManRun;
+	x+=1;
+}

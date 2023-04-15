@@ -1,2 +1,3 @@
 alarm_set(1,240);
-alarm_set(0,1);
+speed = 4;
+direction = o_Gun1.image_angle;
