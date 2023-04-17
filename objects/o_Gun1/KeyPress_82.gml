@@ -1,8 +1,8 @@
 ///@description Reload
-if (!reload and ammo!=max_ammo)
+if (!reload and ammo!=max_ammo and equiped)
 {
 	reload=true;
-	global.canmove=false;
+	//global.canmove=false;
 	canshoot = false;
 	audio_play_sound(snd_reload,1,0);
 	alarm[2]=240;

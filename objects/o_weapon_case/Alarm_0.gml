@@ -1,0 +1,1 @@
+sprite_index=s_weapon_case_opened;

@@ -1,5 +1,5 @@
 /// @description 
-if global.canmove=true
+if equiped //and global.canmove
 {
 	if keyboard_check(vk_right)
 	{
